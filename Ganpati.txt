@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Lord Ganesha Jai Ganesh
+=======
+Lord Ganesha
+>>>>>>> 4585e2534f850598d92c6cb7690b02a08a039a75
